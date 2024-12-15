@@ -1,4 +1,5 @@
 # ciencia_de_datos
+Alumnos: Pablo Creixell Y Benjamín Pérex
 Proyecto ciencia de datos UDP
 # Examen de Ciencia de Datos para la Economía
 
